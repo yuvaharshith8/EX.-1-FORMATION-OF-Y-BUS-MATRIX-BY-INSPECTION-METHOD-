@@ -76,4 +76,7 @@ end
 ybus
 ```
 # OUTPUT:
+<img width="1656" height="872" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/85419072-8ad0-4883-bc8d-2b428946c8b8" />
+
 # RESULT:
+This program is completed sucessfully 
